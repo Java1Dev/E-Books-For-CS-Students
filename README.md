@@ -32,4 +32,6 @@
     - [Beginning Android - Grant Allen]()
     - [Developing AR Games for iOS and Android - Dominic Cushnan and Hassan El Habbak]()
     - [Head First Android Development - Dawn and David Griffiths]()
-    - 
+    - [OpenCV Android Programming By Example - Amgad Muhammad]()
+    - [Professional Android - Reto Meier and Ian Lake]()
+    - [The Busy Coder's Guide To Android Development - Mark L. Murphy]()

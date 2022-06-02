@@ -23,4 +23,13 @@
     - [Android Application Testing Guide - Diego Torres Milano]()
     - [Android Programming Tutorials - Mark L. Murphy]()
     - [Android Programming - Kristin Marsicano, Brian Gardner, Bill Phillips and Chris Stewart]()
-    - []
+    - [Android Development Tools for Eclipse - Sanjay Shah and Khirulnizam Abd Rahman]()
+    - [Android NDK Game Development Cookbook - Sergey Kosarevsky and Viktor Latypov]()
+    - [Android Programming Pushing the Limits - Erik Hellman]()
+    - [Android Recipes - Dave Smith]()
+    - [Android (Collected from Internet)]()
+    - [Asynchronous Android - Steve Liles]()
+    - [Beginning Android - Grant Allen]()
+    - [Developing AR Games for iOS and Android - Dominic Cushnan and Hassan El Habbak]()
+    - [Head First Android Development - Dawn and David Griffiths]()
+    - 

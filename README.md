@@ -19,4 +19,8 @@
 3. **[Android](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Android) :**
     - [50 Android Hacks - Carlos Sessa]()
     - [Android App Development For Dummies - Michael Burton]()
+    - [Android Application Development All-in-One - Barry Burd]()
+    - [Android Application Testing Guide - Diego Torres Milano]()
+    - [Android Programming Tutorials - Mark L. Murphy]()
+    - [Android Programming - Kristin Marsicano, Brian Gardner, Bill Phillips and Chris Stewart]()
     - []

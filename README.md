@@ -17,21 +17,89 @@
         - **Python Programming** [Page no. - **358 to 440** of ***Above PDF***]
 
 3. **[Android](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Android) :**
-    - [50 Android Hacks - Carlos Sessa]()
-    - [Android App Development For Dummies - Michael Burton]()
-    - [Android Application Development All-in-One - Barry Burd]()
-    - [Android Application Testing Guide - Diego Torres Milano]()
-    - [Android Programming Tutorials - Mark L. Murphy]()
-    - [Android Programming - Kristin Marsicano, Brian Gardner, Bill Phillips and Chris Stewart]()
-    - [Android Development Tools for Eclipse - Sanjay Shah and Khirulnizam Abd Rahman]()
-    - [Android NDK Game Development Cookbook - Sergey Kosarevsky and Viktor Latypov]()
-    - [Android Programming Pushing the Limits - Erik Hellman]()
-    - [Android Recipes - Dave Smith]()
-    - [Android (Collected from Internet)]()
-    - [Asynchronous Android - Steve Liles]()
-    - [Beginning Android - Grant Allen]()
-    - [Developing AR Games for iOS and Android - Dominic Cushnan and Hassan El Habbak]()
-    - [Head First Android Development - Dawn and David Griffiths]()
-    - [OpenCV Android Programming By Example - Amgad Muhammad]()
-    - [Professional Android - Reto Meier and Ian Lake]()
-    - [The Busy Coder's Guide To Android Development - Mark L. Murphy]()
+    - [50 Android Hacks - Carlos Sessa](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/Android/50%20Android%20Hacks%20-%20Carlos%20Sessa.pdf)
+    - [Android App Development For Dummies - Michael Burton](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/Android/Android%20App%20Development%20For%20Dummies%20-%20Michael%20Burton.pdf)
+    - [Android Application Development All-in-One - Barry Burd](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/Android/Android%20Application%20Development%20All-in-One%20-%20Barry%20Burd.pdf)
+    - [Android Application Testing Guide - Diego Torres Milano](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/Android/Android%20Application%20Testing%20Guide%20-%20Diego%20Torres%20Milano.pdf)
+    - [Android Programming Tutorials - Mark L. Murphy](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/Android/Android%20Programming%20Tutorials%20-%20Mark%20L.%20Murphy.pdf)
+    - [Android Programming - Kristin Marsicano, Brian Gardner, Bill Phillips and Chris Stewart](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/Android/Android%20Programming%20-%20Kristin%20Marsicano%2C%20Brian%20Gardner%2C%20Bill%20Phillips%20and%20Chris%20Stewart.pdf)
+    - [Android Development Tools for Eclipse - Sanjay Shah and Khirulnizam Abd Rahman](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/Android/Android%20Development%20Tools%20for%20Eclipse%20-%20Sanjay%20Shah%20and%20Khirulnizam%20Abd%20Rahman.pdf)
+    - [Android NDK Game Development Cookbook - Sergey Kosarevsky and Viktor Latypov](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/Android/Android%20NDK%20Game%20Development%20Cookbook%20-%20Sergey%20Kosarevsky%20and%20Viktor%20Latypov.pdf)
+    - [Android Programming Pushing the Limits - Erik Hellman](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/Android/Android%20Programming%20Pushing%20the%20Limits%20-%20Erik%20Hellman.pdf)
+    - [Android Recipes - Dave Smith](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/Android/Android%20Recipes%20-%20Dave%20Smith.pdf)
+    - [Android (Collected from Internet)](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/Android/Android.docx)
+    - [Asynchronous Android - Steve Liles](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/Android/Asynchronous%20Android%20-%20Steve%20Liles.pdf)
+    - [Beginning Android - Grant Allen](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/Android/Beginning%20Android%20-%20Grant%20Allen.pdf)
+    - [Developing AR Games for iOS and Android - Dominic Cushnan and Hassan El Habbak](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/Android/Developing%20AR%20Games%20for%20iOS%20and%20Android%20-%20Dominic%20Cushnan%20and%20Hassan%20El%20Habbak.pdf)
+    - [Head First Android Development - Dawn and David Griffiths](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/Android/Head%20First%20Android%20Development%20-%20Dawn%20and%20David%20Griffiths.pdf)
+    - [OpenCV Android Programming By Example - Amgad Muhammad](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/Android/OpenCV%20Android%20Programming%20By%20Example%20-%20Amgad%20Muhammad.pdf)
+    - [Professional Android - Reto Meier and Ian Lake](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/Android/Professional%20Android%20-%20Reto%20Meier%20and%20Ian%20Lake.pdf)
+    - [The Busy Coder's Guide To Android Development - Mark L. Murphy](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/Android/The%20Busy%20Coder's%20Guide%20To%20Android%20Development%20-%20Mark%20L.%20Murphy.pdf)
+
+4. **[Arduino](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Arduino) :**
+
+5. **[Bash](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Bash) :**
+
+6. **[C#](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/C%23) :**
+
+7. **[C++](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/C%2B%2B) :**
+
+8. **[C](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/C) :**
+
+9. **[Coding Interview Book](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Coding%20Interview%20Book) :**
+
+10. **[Dart](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Dart) :**
+
+11. **[Databases, Data Structures, Data Analysis And Algorithms](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Databases%2C%20Data%20Structures%2C%20Data%20Analysis%20And%20Algorithms) :**
+
+12. **[DevOps](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/DevOps) :**
+
+13. **[Docker](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Docker) :**
+
+14. **[Game Development](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Game%20Development) :**
+
+15. **[General Computer Science And Coding](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/General%20Computer%20Science%20And%20Coding) :**
+
+16. **[Go [Golang]](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Go%20%5BGolang%5D) :**
+
+17. **[Hacking and Linux](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Hacking%20and%20Linux) :**
+
+18. **[IOS](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/IOS) :**
+
+19. **[Java](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Java) :**
+
+20. **[Kivy](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Kivy) :**
+
+21. **[Kotlin](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Kotlin) :**
+
+22. **[Machine Learning](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Machine%20Learning) :**
+
+23. **[Networking](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Networking) :**
+
+24. **[Notes For Professional [All Languages Included]](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Notes%20For%20Professional%20%5BAll%20Languages%20Included%5D) :**
+
+25. **[Numpy Handbook](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Numpy%20Handbook) :**
+
+26. **[Perl](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Perl) :**
+
+27. **[Python](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Python) :**
+
+28. **[Racket](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Racket) :**
+
+29. **[Raspberry Pi](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Raspberry%20Pi) :**
+
+30. **[Robotics](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Robotics) :**
+
+31. **[Ruby](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Ruby) :**
+
+32. **[Scala](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Scala) :**
+
+33. **[Swift](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Swift) :**
+
+34. **[System Design](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/System%20Design) :**
+
+35. **[Typescript](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Typescript) :**
+
+36. **[Ubuntu](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Ubuntu) :**
+
+37. **[Web Development](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Web%20Development) :**

@@ -44,7 +44,7 @@
     - [Arduino by Example - Adith Jagadish Boloor]()
     - [Arduino Cookbook 3rd Edition - Michael Margolis, Brian Jepson and Nicholas Robert Weldin]()
     - [Arduino Development Cook Book - Cornel Amariei]()
-    - [Arduino For Beginners]()
+    - [Arduino For Beginners (Collected from Internet)]()
     - [Arduino Programming -- The Ultimate Guide - Damon Parker]()
     - [Arduino Programming - 3 in 1 - Stuart Nicholas]()
         - **A Comprehensive Beginner's Guide to learn
@@ -55,12 +55,22 @@ Programming Efficiently** [Page no. - **157 - 299** of ***Above PDF***]
 Arduino Programming** [Page no. - **300 - 431** of ***Above PDF***]
     - [Arduino Projects Book - Scott Fitzgerald and Michael Shiloh]()
     - [Arduino Robotics Book - John-David Warren, Josh Adams and Harald Molle]()
-    - []()
-    - []()
-    - []()
+    - [Arduino Workshop Book - John Boxall]()
+    - [Arduino (Collected from Internet)]()
+    - [Beginning Android ADK with Arduino Book - Mario Bohmer]()
+    - [Building A Home Security System With Arduino - Jorge R. Castro]()
+    - [Getting Started with Arduino A Beginners Guide - Brad Kendall]()
+    - [Introduction Arduino - Alan G. Smith]()
+    - [iOS Sensor Apps with Arduino - Alasdair Allan]()
+    - [Make Arduino Bots and Gadgets - Tero Karvinen and Kimmo Karvinen]()
+    - [Make Getting Started with Sensors - Tero Karvinen and Kimmo Karvinen]()
+    - [Make - Getting Started with Arduino - Massimo Banzi]()
+    - [Open Software - Tony Olsson, David Gaetano, Jonas Odhner and Samson Wiklund]()
+    - [Programming Arduino -- Getting Started with Sketches - Simon Monk]()
+    - [Programming Arduino Next Steps -- Further with sketches - Simon Monk]()
 
 5. **[Bash](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Bash) :**
-    - []()
+    - [Bash Cookbook - Carl Albing, J. P. Vossen and Cameron Newham]()
 
 6. **[C#](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/C%23) :**
     - []()

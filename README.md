@@ -37,69 +37,123 @@
     - [The Busy Coder's Guide To Android Development - Mark L. Murphy](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/Android/The%20Busy%20Coder's%20Guide%20To%20Android%20Development%20-%20Mark%20L.%20Murphy.pdf)
 
 4. **[Arduino](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Arduino) :**
+    - [20 Unbelievable Arduino Projects]()
+    - [30 Arduino Projects for the Evil Genius - Simon Monk]()
+    - [30 Arduino Projects for the Evil Genius (2nd Edition) - Simon Monk]()
+    - [Arduino 101 Beginners Guide - Erik Savasgard]()
+    - [Arduino by Example - Adith Jagadish Boloor]()
+    - [Arduino Cookbook 3rd Edition - Michael Margolis, Brian Jepson and Nicholas Robert Weldin]()
+    - [Arduino Development Cook Book - Cornel Amariei]()
+    - [Arduino For Beginners]()
+    - [Arduino Programming -- The Ultimate Guide - Damon Parker]()
+    - [Arduino Programming - 3 in 1 - Stuart Nicholas]()
+        - **A Comprehensive Beginner's Guide to learn
+the Realms of Arduino from A-Z** [Page no. - **17 - 156** of ***Above PDF***]
+        - **Tip and Tricks to Learn Arduino
+Programming Efficiently** [Page no. - **157 - 299** of ***Above PDF***]
+        - **Advanced Methods and Strategies to Learn
+Arduino Programming** [Page no. - **300 - 431** of ***Above PDF***]
+    - [Arduino Projects Book - Scott Fitzgerald and Michael Shiloh]()
+    - [Arduino Robotics Book - John-David Warren, Josh Adams and Harald Molle]()
+    - []()
+    - []()
+    - []()
 
 5. **[Bash](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Bash) :**
+    - []()
 
 6. **[C#](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/C%23) :**
+    - []()
 
 7. **[C++](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/C%2B%2B) :**
+    - []()
 
 8. **[C](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/C) :**
+    - []()
 
 9. **[Coding Interview Book](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Coding%20Interview%20Book) :**
+    - []()
 
 10. **[Dart](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Dart) :**
+    - []()
 
 11. **[Databases, Data Structures, Data Analysis And Algorithms](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Databases%2C%20Data%20Structures%2C%20Data%20Analysis%20And%20Algorithms) :**
+    - []()
 
 12. **[DevOps](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/DevOps) :**
+    - []()
 
 13. **[Docker](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Docker) :**
+    - []()
 
 14. **[Game Development](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Game%20Development) :**
+    - []()
 
 15. **[General Computer Science And Coding](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/General%20Computer%20Science%20And%20Coding) :**
+    - []()
 
 16. **[Go [Golang]](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Go%20%5BGolang%5D) :**
+    - []()
 
 17. **[Hacking and Linux](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Hacking%20and%20Linux) :**
+    - []()
 
 18. **[IOS](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/IOS) :**
+    - []()
 
 19. **[Java](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Java) :**
+    - []()
 
 20. **[Kivy](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Kivy) :**
+    - []()
 
 21. **[Kotlin](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Kotlin) :**
+    - []()
 
 22. **[Machine Learning](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Machine%20Learning) :**
+    - []()
 
 23. **[Networking](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Networking) :**
+    - []()
 
 24. **[Notes For Professional [All Languages Included]](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Notes%20For%20Professional%20%5BAll%20Languages%20Included%5D) :**
+    - []()
 
 25. **[Numpy Handbook](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Numpy%20Handbook) :**
+    - []()
 
 26. **[Perl](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Perl) :**
+    - []()
 
 27. **[Python](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Python) :**
+    - []()
 
 28. **[Racket](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Racket) :**
+    - []()
 
 29. **[Raspberry Pi](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Raspberry%20Pi) :**
+    - []()
 
 30. **[Robotics](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Robotics) :**
+    - []()
 
 31. **[Ruby](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Ruby) :**
+    - []()
 
 32. **[Scala](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Scala) :**
+    - []()
 
 33. **[Swift](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Swift) :**
+    - []()
 
 34. **[System Design](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/System%20Design) :**
+    - []()
 
 35. **[Typescript](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Typescript) :**
+    - []()
 
 36. **[Ubuntu](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Ubuntu) :**
+    - []()
 
 37. **[Web Development](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Web%20Development) :**
+    - []()

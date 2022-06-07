@@ -90,17 +90,19 @@ Arduino Programming** [Page no. - **300 - 431** of ***Above PDF***]
     - [Starting Out with C++ from Control Structures through Objects - Tony Gaddis](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/C%2B%2B/Starting%20Out%20with%20C%2B%2B%20from%20Control%20Structures%20through%20Objects%20-%20Tony%20Gaddis.pdf)
 
 8. **[C#](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/C%23) :**
-    - []()
-    - []()
-    - []()
-    - []()
-    - []()
+    - [Beginning C# Programming with Unity - Visual Studio Edition - A. T. Chamillard]()
+    - [Advanced Guide to Learn C# - Benjamin Smith]()
+    - [Concurrency in C# Cookbook - Stephen Cleary]()
+    - [Head First C# - Jennifer Greene]()
+    - [Pro ASP.NET 4.5 in C# - Adam Freeman, Matthew MacDonald, and Mario Szpuszta]()
 
 9. **[Coding Interview Book](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Coding%20Interview%20Book) :**
-    - []()
+    - [Cracking the Coding Interview - Gayle Laakmann]()
+    - [Programming Interview Problems - Dynamic Programming - Leonardo Rossi]()
+    - [Programming Interviews Exposed - Eric Giguere, John Mongan, and Noah Suojanen]()
 
 10. **[Dart](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Dart) :**
-    - []()
+    - [Dart for Hipsters - Chris Strom]()
 
 11. **[Databases, Data Structures, Data Analysis And Algorithms](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Databases%2C%20Data%20Structures%2C%20Data%20Analysis%20And%20Algorithms) :**
     - []()

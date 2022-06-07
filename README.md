@@ -73,7 +73,7 @@ Arduino Programming** [Page no. - **300 - 431** of ***Above PDF***]
     - [Bash Cookbook - Carl Albing, J. P. Vossen and Cameron Newham](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/Bash/Bash%20Cookbook%20-%20Carl%20Albing%2C%20J.%20P.%20Vossen%20and%20Cameron%20Newham.pdf)
 
 6. **[C](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/C) :**
-    - [C Programming Language - DP Publishing]()
+    - [C Programming Language - DP Publishing](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/C/C%20Programming%20Language%20-%20DP%20Publishing.pdf)
     - [C (Collected from the Internet)](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/C/C.docx)
 
 7. **[C++](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/C%2B%2B) :**

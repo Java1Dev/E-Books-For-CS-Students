@@ -77,19 +77,23 @@ Arduino Programming** [Page no. - **300 - 431** of ***Above PDF***]
     - [C (Collected from the Internet)](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/C/C.docx)
 
 7. **[C++](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/C%2B%2B) :**
-    - [A Tour of C++ - Bjarne Stroustrup]()
-    - [Advanced Guide to Learn C++ - Benjamin Smith]()
-    - [C++ Coding Standards - 101 Rules, Guidelines, and Best Practices - Herb Sutter and Andrei Alexandrescu]()
-    - [C++ 20 for Programmers - Paul Deitel and Harvey Deitel]()
-    - [C++ (Collected from the Internet)]()
-    - [Effective C++ - Scott Meyers]()
-    - [Effective Modern C++ - Scott Meyers]()
-    - [Guide to Scientific Computing in C++ - Joe Pitt-Francis and Jonathan Whiteley]()
-    - [Large-Scale C++ - Volume I - Process and Architecture - John Lakos]()
-    - [Large-Scale C++ - Volume II - Software Design - John Lakos]()
-    - [Starting Out with C++ from Control Structures through Objects - Tony Gaddis]()
+    - [A Tour of C++ - Bjarne Stroustrup](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/C%2B%2B/A%20Tour%20of%20C%2B%2B%20-%20Bjarne%20Stroustrup.pdf)
+    - [Advanced Guide to Learn C++ - Benjamin Smith](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/C%2B%2B/Advanced%20Guide%20to%20Learn%20C%2B%2B%20-%20Benjamin%20Smith.pdf)
+    - [C++ Coding Standards - 101 Rules, Guidelines, and Best Practices - Herb Sutter and Andrei Alexandrescu](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/C%2B%2B/C%2B%2B%20Coding%20Standards%20-%20101%20Rules%2C%20Guidelines%2C%20and%20Best%20Practices%20-%20Herb%20Sutter%20and%20Andrei%20Alexandrescu.pdf)
+    - [C++ 20 for Programmers - Paul Deitel and Harvey Deitel](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/C%2B%2B/C%2B%2B%2020%20for%20Programmers%20-%20Paul%20Deitel%20and%20Harvey%20Deitel.pdf)
+    - [C++ (Collected from the Internet)](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/C%2B%2B/C%2B%2B.docx)
+    - [Effective C++ - Scott Meyers](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/C%2B%2B/Effective%20C%2B%2B%20-%20Scott%20Meyers.pdf)
+    - [Effective Modern C++ - Scott Meyers](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/C%2B%2B/Effective%20Modern%20C%2B%2B%20-%20Scott%20Meyers.pdf)
+    - [Guide to Scientific Computing in C++ - Joe Pitt-Francis and Jonathan Whiteley](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/C%2B%2B/Guide%20to%20Scientific%20Computing%20in%20C%2B%2B%20-%20Joe%20Pitt-Francis%20and%20Jonathan%20Whiteley.pdf)
+    - [Large-Scale C++ - Volume I - Process and Architecture - John Lakos](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/C%2B%2B/Large-Scale%20C%2B%2B%20-%20Volume%20I%20-%20Process%20and%20Architecture%20-%20John%20Lakos.pdf)
+    - [Large-Scale C++ - Volume II - Software Design - John Lakos](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/C%2B%2B/Large-Scale%20C%2B%2B%20-%20Volume%20II%20-%20Software%20Design%20-%20John%20Lakos.pdf)
+    - [Starting Out with C++ from Control Structures through Objects - Tony Gaddis](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/C%2B%2B/Starting%20Out%20with%20C%2B%2B%20from%20Control%20Structures%20through%20Objects%20-%20Tony%20Gaddis.pdf)
 
 8. **[C#](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/C%23) :**
+    - []()
+    - []()
+    - []()
+    - []()
     - []()
 
 9. **[Coding Interview Book](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Coding%20Interview%20Book) :**

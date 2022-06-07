@@ -77,7 +77,17 @@ Arduino Programming** [Page no. - **300 - 431** of ***Above PDF***]
     - [C (Collected from the Internet)](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/C/C.docx)
 
 7. **[C++](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/C%2B%2B) :**
-    - []()
+    - [A Tour of C++ - Bjarne Stroustrup]()
+    - [Advanced Guide to Learn C++ - Benjamin Smith]()
+    - [C++ Coding Standards - 101 Rules, Guidelines, and Best Practices - Herb Sutter and Andrei Alexandrescu]()
+    - [C++ 20 for Programmers - Paul Deitel and Harvey Deitel]()
+    - [C++ (Collected from the Internet)]()
+    - [Effective C++ - Scott Meyers]()
+    - [Effective Modern C++ - Scott Meyers]()
+    - [Guide to Scientific Computing in C++ - Joe Pitt-Francis and Jonathan Whiteley]()
+    - [Large-Scale C++ - Volume I - Process and Architecture - John Lakos]()
+    - [Large-Scale C++ - Volume II - Software Design - John Lakos]()
+    - [Starting Out with C++ from Control Structures through Objects - Tony Gaddis]()
 
 8. **[C#](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/C%23) :**
     - []()

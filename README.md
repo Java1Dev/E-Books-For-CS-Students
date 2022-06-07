@@ -132,7 +132,7 @@ Arduino Programming** [Page no. - **300 - 431** of ***Above PDF***]
     - []()
 
 20. **[Kivy](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Kivy) :**
-    - [kivy tutorial (Official Documentation)]()
+    - [kivy tutorial (Official Documentation)](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/Kivy/kivy%20tutorial%20(Official%20Documentation).pdf)
 
 21. **[Kotlin](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Kotlin) :**
     - []()
@@ -147,16 +147,16 @@ Arduino Programming** [Page no. - **300 - 431** of ***Above PDF***]
     - []()
 
 25. **[Numpy](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Numpy%20Handbook) :**
-    - [Numpy Handbook - Patrick Loeber]()
+    - [Numpy Handbook - Patrick Loeber](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/Numpy/Numpy%20Handbook%20-%20Patrick%20Loeber.pdf)
 
 26. **[Perl](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Perl) :**
-    - [Perl One-Liners - Peteris Krumins]()
+    - [Perl One-Liners - Peteris Krumins](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/Perl/Perl%20One-Liners%20-%20Peteris%20Krumins.pdf)
 
 27. **[Python](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Python) :**
     - []()
 
 28. **[Racket](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Racket) :**
-    - [Racket Programming the Fun Way - James W. Stelly]()
+    - [Racket Programming the Fun Way - James W. Stelly](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/Racket/Racket%20Programming%20the%20Fun%20Way%20-%20James%20W.%20Stelly.pdf)
 
 29. **[Raspberry Pi](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Raspberry%20Pi) :**
     - []()
@@ -165,22 +165,22 @@ Arduino Programming** [Page no. - **300 - 431** of ***Above PDF***]
     - []()
 
 31. **[Ruby](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Ruby) :**
-    - [Eloquent Ruby - Russ Olsen]()
+    - [Eloquent Ruby - Russ Olsen](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/Ruby/Eloquent%20Ruby%20-%20Russ%20Olsen.pdf)
 
 32. **[Scala](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Scala) :**
     - []()
 
 33. **[Swift](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Swift) :**
-    - [Swift Programming - The Big Nerd Ranch Guid - Mikey Ward]()
+    - [Swift Programming - The Big Nerd Ranch Guid - Mikey Ward](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/Swift/Swift%20Programming%20-%20The%20Big%20Nerd%20Ranch%20Guid%20-%20Mikey%20Ward.pdf)
 
 34. **[System Design](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/System%20Design) :**
     - []()
 
 35. **[Typescript](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Typescript) :**
-    - [TypeScript in 8 Hours - Ray Yao]()
+    - [TypeScript in 8 Hours - Ray Yao](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/Typescript/TypeScript%20in%208%20Hours%20-%20Ray%20Yao.pdf)
 
 36. **[Ubuntu](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Ubuntu) :**
-    - [Mastering Ubuntu Server - Jay LaCroix]()
+    - [Mastering Ubuntu Server - Jay LaCroix](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/Ubuntu/Mastering%20Ubuntu%20Server%20-%20Jay%20LaCroix.pdf)
 
 37. **[Web Development](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Web%20Development) :**
     - []()

@@ -70,15 +70,16 @@ Arduino Programming** [Page no. - **300 - 431** of ***Above PDF***]
     - [Programming Arduino Next Steps -- Further with sketches - Simon Monk](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/Arduino)
 
 5. **[Bash](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Bash) :**
-    - [Bash Cookbook - Carl Albing, J. P. Vossen and Cameron Newham]()
+    - [Bash Cookbook - Carl Albing, J. P. Vossen and Cameron Newham](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/Bash/Bash%20Cookbook%20-%20Carl%20Albing%2C%20J.%20P.%20Vossen%20and%20Cameron%20Newham.pdf)
 
-6. **[C#](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/C%23) :**
-    - []()
+6. **[C](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/C) :**
+    - [C Programming Language - DP Publishing]()
+    - [C (Collected from the Internet)](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/C/C.docx)
 
 7. **[C++](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/C%2B%2B) :**
     - []()
 
-8. **[C](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/C) :**
+8. **[C#](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/C%23) :**
     - []()
 
 9. **[Coding Interview Book](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Coding%20Interview%20Book) :**

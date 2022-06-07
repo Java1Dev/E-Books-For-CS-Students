@@ -132,7 +132,7 @@ Arduino Programming** [Page no. - **300 - 431** of ***Above PDF***]
     - []()
 
 20. **[Kivy](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Kivy) :**
-    - []()
+    - [kivy tutorial (Official Documentation)]()
 
 21. **[Kotlin](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Kotlin) :**
     - []()
@@ -146,17 +146,17 @@ Arduino Programming** [Page no. - **300 - 431** of ***Above PDF***]
 24. **[Notes For Professional [All Languages Included]](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Notes%20For%20Professional%20%5BAll%20Languages%20Included%5D) :**
     - []()
 
-25. **[Numpy Handbook](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Numpy%20Handbook) :**
-    - []()
+25. **[Numpy](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Numpy%20Handbook) :**
+    - [Numpy Handbook - Patrick Loeber]()
 
 26. **[Perl](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Perl) :**
-    - []()
+    - [Perl One-Liners - Peteris Krumins]()
 
 27. **[Python](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Python) :**
     - []()
 
 28. **[Racket](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Racket) :**
-    - []()
+    - [Racket Programming the Fun Way - James W. Stelly]()
 
 29. **[Raspberry Pi](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Raspberry%20Pi) :**
     - []()
@@ -165,22 +165,22 @@ Arduino Programming** [Page no. - **300 - 431** of ***Above PDF***]
     - []()
 
 31. **[Ruby](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Ruby) :**
-    - []()
+    - [Eloquent Ruby - Russ Olsen]()
 
 32. **[Scala](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Scala) :**
     - []()
 
 33. **[Swift](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Swift) :**
-    - []()
+    - [Swift Programming - The Big Nerd Ranch Guid - Mikey Ward]()
 
 34. **[System Design](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/System%20Design) :**
     - []()
 
 35. **[Typescript](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Typescript) :**
-    - []()
+    - [TypeScript in 8 Hours - Ray Yao]()
 
 36. **[Ubuntu](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Ubuntu) :**
-    - []()
+    - [Mastering Ubuntu Server - Jay LaCroix]()
 
 37. **[Web Development](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Web%20Development) :**
     - []()

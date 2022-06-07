@@ -90,19 +90,19 @@ Arduino Programming** [Page no. - **300 - 431** of ***Above PDF***]
     - [Starting Out with C++ from Control Structures through Objects - Tony Gaddis](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/C%2B%2B/Starting%20Out%20with%20C%2B%2B%20from%20Control%20Structures%20through%20Objects%20-%20Tony%20Gaddis.pdf)
 
 8. **[C#](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/C%23) :**
-    - [Beginning C# Programming with Unity - Visual Studio Edition - A. T. Chamillard]()
-    - [Advanced Guide to Learn C# - Benjamin Smith]()
-    - [Concurrency in C# Cookbook - Stephen Cleary]()
-    - [Head First C# - Jennifer Greene]()
-    - [Pro ASP.NET 4.5 in C# - Adam Freeman, Matthew MacDonald, and Mario Szpuszta]()
+    - [Beginning C# Programming with Unity - Visual Studio Edition - A. T. Chamillard](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/C%23/Beginning%20C%23%20Programming%20with%20Unity%20-%20Visual%20Studio%20Edition%20-%20A.%20T.%20Chamillard.pdf)
+    - [Advanced Guide to Learn C# - Benjamin Smith](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/C%23/Advanced%20Guide%20to%20Learn%20C%23%20-%20Benjamin%20Smith.pdf)
+    - [Concurrency in C# Cookbook - Stephen Cleary](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/C%23/Concurrency%20in%20C%23%20Cookbook%20-%20Stephen%20Cleary.pdf)
+    - [Head First C# - Jennifer Greene](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/C%23/Head%20First%20C%23%20-%20Jennifer%20Greene.pdf)
+    - [Pro ASP.NET 4.5 in C# - Adam Freeman, Matthew MacDonald, and Mario Szpuszta](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/C%23/Pro%20ASP.NET%204.5%20in%20C%23%20-%20Adam%20Freeman%2C%20Matthew%20MacDonald%2C%20and%20Mario%20Szpuszta.pdf)
 
 9. **[Coding Interview Book](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Coding%20Interview%20Book) :**
-    - [Cracking the Coding Interview - Gayle Laakmann]()
-    - [Programming Interview Problems - Dynamic Programming - Leonardo Rossi]()
-    - [Programming Interviews Exposed - Eric Giguere, John Mongan, and Noah Suojanen]()
+    - [Cracking the Coding Interview - Gayle Laakmann](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/Coding%20Interview%20Book/Cracking%20the%20Coding%20Interview%20-%20Gayle%20Laakmann.pdf)
+    - [Programming Interview Problems - Dynamic Programming - Leonardo Rossi](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/Coding%20Interview%20Book/Programming%20Interview%20Problems%20-%20Dynamic%20Programming%20-%20Leonardo%20Rossi.pdf)
+    - [Programming Interviews Exposed - Eric Giguere, John Mongan, and Noah Suojanen](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/Coding%20Interview%20Book/Programming%20Interviews%20Exposed%20-%20Eric%20Giguere%2C%20John%20Mongan%2C%20and%20Noah%20Suojanen.pdf)
 
 10. **[Dart](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Dart) :**
-    - [Dart for Hipsters - Chris Strom]()
+    - [Dart for Hipsters - Chris Strom](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/Dart/Dart%20for%20Hipsters%20-%20Chris%20Strom.pdf)
 
 11. **[Databases, Data Structures, Data Analysis And Algorithms](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Databases%2C%20Data%20Structures%2C%20Data%20Analysis%20And%20Algorithms) :**
     - []()
